@@ -1,2 +1,2 @@
-gmailID="xxxxxx@gmail.com"
+gmailID="tes.andios@gmail.com"
 gPass="xxxxxxxx"
