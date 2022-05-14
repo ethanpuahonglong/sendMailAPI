@@ -1,2 +1,2 @@
 gmailID="tes.andios@gmail.com"
-gPass="xxxxxxxx"
+gPass="qualtest"
